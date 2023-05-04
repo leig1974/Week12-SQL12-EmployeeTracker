@@ -1,3 +1,10 @@
+
+
+
+deployment video:
+https://drive.google.com/file/d/1snNg_dnqp_SdhVQPKim3_KdokGX-Txte/view
+
+
 # 12 SQL: Employee Tracker
 
 ## Your Task
